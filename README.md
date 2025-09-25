@@ -14,10 +14,10 @@ A REST API for managing your favorite TV shows, built with ASP.NET Core and Enti
 ## Quick Start
 
 1. Clone the repository
-2. Run `dotnet run` 
-3. Navigate to http://localhost:5291/api/tvshows
+2. Run `dotnet run` on terminal (if you don't have dotnet, you need to install it before)
+3. Navigate to http://localhost:5291/ (add any of the following endpoints to the URL)
 
-The SQLite database will be created automatically on first run.
+(The SQLite database will be created automatically on first run.)
 
 ## API Endpoints
 
